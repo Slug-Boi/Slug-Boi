@@ -15,8 +15,8 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
 ---
 
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slug-Boi&show_icons=true&locale=en&theme=transparent" alt="Slub-Boi" width="40%" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slug-Boi&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Slug-Boi" width="33%" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Slug-Boi&show_icons=true&locale=en&theme=transparent" alt="Slub-Boi" width="40%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slug-Boi&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Slug-Boi" width="33%" height="150"/>
 </p>
 
 ---
