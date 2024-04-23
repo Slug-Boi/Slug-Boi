@@ -12,11 +12,14 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
 - 💻 Favorite languages, I love things that go fast so **Rust, C++, Go-lang** or **Python** for fast development
 - ⭐ Cool projects, checkout [cocommit](https://github.com/Slug-Boi/cocommit) or my work on the [Novo-Nordisk Decentralized Tech Radar](https://github.com/NovoNordisk-OpenSource/decentralized-tech-radar)
 
+---
 
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slug-Boi&show_icons=true&locale=en&theme=transparent" alt="albe2669" width="40%" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slug-Boi&show_icons=true&locale=en&layout=compact&theme=transparent" alt="albe2669" width="33%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Slug-Boi&show_icons=true&locale=en&theme=transparent" alt="Slub-Boi" width="40%" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Slug-Boi&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Slug-Boi" width="%" height="170"/>
 </p>
+
+---
 
 # Links to find me ...
 <p align="center">
