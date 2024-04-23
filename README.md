@@ -23,6 +23,6 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
 
 # Links to find me ...
 <p align="center">
-  <a href="https://wakatime.com/@Slug_Boi"><img src="https://cdn.worldvectorlogo.com/logos/wakatime.svg" alt="Wakatime" width="7%"/></a>
+  <a href="https://wakatime.com/@Slug_Boi"><img src="https://cdn.worldvectorlogo.com/logos/wakatime.svg" alt="Wakatime" width="8%"/></a>
   <a href="https://www.linkedin.com/in/theis-per-holm/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin"/></a>
 </p>
