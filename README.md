@@ -2,7 +2,7 @@
 My name is **Theis aka. Slug-Boi** and this is my profile, here you will find projects I have worked on whilst attending ITU as well as hobby/job projects. 
 
 ## BIO/FAQ
-- 🇩🇰 Highest completed education is **Undergraduate in Software Development** at [IT University of Copenhagen](https://itu.dk/)
+- 🇩🇰 Currently an **Undergraduate in Software Development** at [IT University of Copenhagen](https://itu.dk/)
 - 👀 Looking to complete a **Masters Degree in Computer Science**
 - ❤️ Technological Topics & Subjects I am currently invested in include ...
   - **DevOps**
