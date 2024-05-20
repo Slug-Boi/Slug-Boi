@@ -11,6 +11,9 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
   - **Algorithmic Analysis & problemsolving**
 - 💻 Favorite languages, I love things that go fast so **Rust, C++, Go-lang** or **Python** for fast development
 - ⭐ Cool projects, checkout [cocommit](https://github.com/Slug-Boi/cocommit) or my work on the [Novo-Nordisk Decentralized Tech Radar](https://github.com/NovoNordisk-OpenSource/decentralized-tech-radar)
+- 💿 Current Distro adventures
+  - 🐧 Desktop is running a custom **NixOS** configuration which can be found in my dotfiles repository (Built on albe2669 NixOS dotfiles)
+  - 🍎 Laptop is running **MacOS**
 
 ---
 
