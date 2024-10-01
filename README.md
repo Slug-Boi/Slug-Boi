@@ -13,7 +13,7 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
 - ⭐ Cool projects, checkout [cocommit](https://github.com/Slug-Boi/cocommit) or my work on the [Novo-Nordisk Decentralized Tech Radar](https://github.com/NovoNordisk-OpenSource/decentralized-tech-radar), maybe even check out my time scheduling cli ⏰ based on algorithms [aion-cli](https://github.com/Slug-Boi/aion-cli)
 - 💿 Current Distro adventures
   - 🐧 Desktop is running a custom **NixOS** configuration which can be found in my dotfiles repository (Built on albe2669 NixOS dotfiles)
-  - 🍎 Laptop is running **MacOS**
+  - 🍎 Laptop is running **MacOS** using Nix as the package and system manager
 
 ---
 
