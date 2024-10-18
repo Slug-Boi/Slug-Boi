@@ -1,5 +1,10 @@
 # Hello There 👋
-My name is **Theis aka. Slug-Boi** and this is my profile, here you will find projects I have worked on whilst attending ITU as well as hobby/job projects. 
+My name is **Theis aka. Slug-Boi** and this is my profile, here you will find projects I have worked on whilst attending ITU as well as hobby/job projects.
+<br>
+<p>
+<a href="https://wakatime.com/@Slug_Boi"> <img src="https://img.shields.io/badge/Wakatime-0c1117?style=flat&logo=wakatime&link=https%3A%2F%2Fwakatime.com%2F%40Slug_Boi" alt="WakaTime Link" /></a>
+<a href="https://www.linkedin.com/in/theis-per-holm/"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftheis-per-holm%2F" alt="LinkedIn Link" /></a>
+</p>
 
 ## BIO/FAQ
 - 🇩🇰 Currently an **Undergraduate in Software Development** at [IT University of Copenhagen](https://itu.dk/)
@@ -24,8 +29,9 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
 
 ---
 
-# Links to find me ...
+<h1 align="center">Links to dotfiles</h1>
 <p align="center">
-  <a href="https://wakatime.com/@Slug_Boi"><img src="https://cdn.worldvectorlogo.com/logos/wakatime.svg" alt="Wakatime" width="8%"/></a>
-  <a href="https://www.linkedin.com/in/theis-per-holm/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin"/></a>
+  <a href="https://github.com/Slug-Boi/dotfiles_sluggy"><img src="https://skillicons.dev/icons?i=nix" alt="NixOS"/></a>
+  <a href="https://github.com/Slug-Boi/dotfiles_sluggy/tree/nix-darwin"><img src="https://skillicons.dev/icons?i=apple" alt="Nix Darwin"/></a>
+  <a href="https://github.com/Slug-Boi/dotfiles_sluggy/tree/arch_dotfiles"><img src="https://skillicons.dev/icons?i=arch" alt="Arch"/></a>
 </p>
