@@ -1,4 +1,8 @@
-# Hello There 👋
+<p float="left" align="center">
+  <img src="/icons/slug-boi.gif" width="600"/>
+</p>
+<h1 align="center"> Hello There 👋 </h1>
+
 My name is **Theis aka. Slug-Boi** and this is my profile, here you will find projects I have worked on whilst attending ITU as well as hobby/job projects.
 <br>
 <p>
