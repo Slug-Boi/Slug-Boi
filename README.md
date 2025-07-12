@@ -11,8 +11,8 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
 </p>
 
 ## BIO/FAQ
-- 🇩🇰 Currently an **Undergraduate in Software Development** at [IT University of Copenhagen](https://itu.dk/)
-- 👀 Looking to complete a **Masters Degree in Computer Science**
+- 🇩🇰 Currently a **Postgraduate in Computer Science** at [IT University of Copenhagen](https://itu.dk/)
+- 👀 Completed **BsC** in **Software Development**
 - ❤️ Technological Topics & Subjects I am currently invested in include ...
   - **DevOps**
   - **Virtualization (🐳 Docker & ⚓ Kubernetes)**
