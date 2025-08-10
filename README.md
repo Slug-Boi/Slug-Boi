@@ -36,6 +36,6 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
 <h1 align="center">Links to dotfiles</h1>
 <p align="center">
   <a href="https://github.com/Slug-Boi/dotfiles_sluggy"><img src="https://skillicons.dev/icons?i=nix" alt="NixOS"/></a>
-  <a href="https://github.com/Slug-Boi/dotfiles_sluggy/tree/nix-darwin"><img src="https://skillicons.dev/icons?i=apple" alt="Nix Darwin"/></a>
+  <a href="https://github.com/Slug-Boi/dotfiles_sluggy"><img src="https://skillicons.dev/icons?i=apple" alt="Nix Darwin"/></a>
   <a href="https://github.com/Slug-Boi/dotfiles_sluggy/tree/arch_dotfiles"><img src="https://skillicons.dev/icons?i=arch" alt="Arch"/></a>
 </p>
