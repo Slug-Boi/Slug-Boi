@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Hello There 👋 </h1>
 
-My name is **Theis aka. Slug-Boi** and this is my profile, here you will find projects I have worked on whilst attending ITU as well as hobby/job projects.
+My name is **Theis aka. Slug-Boi** and this is my profile, here you will find my personal projects. You can find the projects I worked on during my time attending ITU at this [orginzation](https://github.com/Slug-Boi-ITU-Repositories).
 <br>
 <p>
 <a href="https://wakatime.com/@Slug_Boi"> <img src="https://img.shields.io/badge/Wakatime-0c1117?style=flat&logo=wakatime&link=https%3A%2F%2Fwakatime.com%2F%40Slug_Boi" alt="WakaTime Link" /></a>
