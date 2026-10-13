@@ -16,12 +16,13 @@ My name is **Theis aka. Slug-Boi** and this is my profile, here you will find pr
 - ❤️ Technological Topics & Subjects I am currently invested in include ...
   - **DevOps**
   - **Virtualization (🐳 Docker & ⚓ Kubernetes)**
-  - **Distrubuted Systems**
-  - **Algorithmic Analysis & problemsolving**
-- 💻 Favorite languages, I love things that go fast so **Rust, C++, Go-lang** or **Python** for fast development
+  - **Software Architecture**
+  - **Algorithmic Analysis & problem solving**
+- 💻 Favorite languages, I love things that go fast so **Rust, C++, Go** or **Python** for fast development
 - ⭐ Cool projects, checkout [cocommit](https://github.com/Slug-Boi/cocommit) or my work on the [Novo-Nordisk Decentralized Tech Radar](https://github.com/NovoNordisk-OpenSource/decentralized-tech-radar), maybe even check out my time scheduling cli ⏰ based on algorithms [aion-cli](https://github.com/Slug-Boi/aion-cli)
 - 💿 Current Distro adventures
-  - 🐧 Desktop is running a custom **NixOS** configuration which can be found in my dotfiles repository (Built on albe2669 NixOS dotfiles)
+  - 🐧 Desktop is running **CachyOS**, I like Arch (still very WIP)
+    - Used to run a custom **NixOS** configuration which can be found in my dotfiles repository (Built on albe2669 NixOS dotfiles)
   - 🍎 Laptop is running **MacOS** using Nix as the package and system manager
 
 ---
